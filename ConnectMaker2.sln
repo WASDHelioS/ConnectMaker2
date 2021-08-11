@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectMaker2", "ConnectMaker2\ConnectMaker2.csproj", "{8CB99670-C425-4957-B087-F2B643B8510C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB99670-C425-4957-B087-F2B643B8510C}.Debug|x64.ActiveCfg = Debug|x64
+		{8CB99670-C425-4957-B087-F2B643B8510C}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C642F81A-7D15-4078-BC8E-98A51033CEC4}
+	EndGlobalSection
+EndGlobal
